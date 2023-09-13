@@ -1,6 +1,6 @@
 ### Bonjour 🥖
 
-👨‍🎓 I’m currently student and  🌱 i’m currently learning Cyber security 🔒 and cloud ☁
+👨‍🎓 I’m currently student and  🌱 i’m learning Cyber security 🔒 and cloud ☁
 
 ### Languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=ruby,c,scss,js,html,rails,bootstrap,linux,bash,github,postgresql,flutter)](https://skillicons.dev)
